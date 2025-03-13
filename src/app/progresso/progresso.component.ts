@@ -6,6 +6,4 @@ import { Component } from '@angular/core';
   templateUrl: './progresso.component.html',
   styleUrl: './progresso.component.css'
 })
-export class ProgressoComponent {
-
-}
+export class ProgressoComponent {}
