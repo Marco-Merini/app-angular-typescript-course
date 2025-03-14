@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/topo/topo.component.css"],
+  "sourcesContent": [".navbar {\r\n    background-color: #1CB0F6;\r\n    margin-bottom: 20px;\r\n}\r\n\r\n.navbar-brand {\r\n    font-weight: bold;\r\n}\r\n\r\n.navbar-dark .navbar-nav .nav-link {\r\n    color: rgba(255, 255, 255, 0.85);\r\n}\r\n\r\n.navbar-dark .navbar-nav .nav-link:hover {\r\n    color: rgba(255, 255, 255, 1);\r\n}"],
+  "mappings": ";AAAA,CAAC;AACG,oBAAkB;AAClB,iBAAe;AACnB;AAEA,CAAC;AACG,eAAa;AACjB;AAEA,CAAC,YAAY,CAAC,WAAW,CAAC;AACtB,SAAO,KAAK,GAAG,EAAE,GAAG,EAAE,GAAG,EAAE;AAC/B;AAEA,CAJC,YAIY,CAJC,WAIW,CAJC,QAIQ;AAC9B,SAAO,KAAK,GAAG,EAAE,GAAG,EAAE,GAAG,EAAE;AAC/B;",
+  "names": []
+}

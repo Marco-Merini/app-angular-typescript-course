@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/progresso/progresso.component.css"],
+  "sourcesContent": [".progress {\r\n    background: #EEF8DA;\r\n    border: solid 1px #99CE28;\r\n    height: 20px;\r\n    margin-top: 10px;\r\n}\r\n\r\n.progress-bar {\r\n    background: #99CE28;\r\n    transition: width 0.5s ease-in-out;\r\n}"],
+  "mappings": ";AAAA,CAAC;AACG,cAAY;AACZ,UAAQ,MAAM,IAAI;AAClB,UAAQ;AACR,cAAY;AAChB;AAEA,CAAC;AACG,cAAY;AACZ,cAAY,MAAM,KAAK;AAC3B;",
+  "names": []
+}
