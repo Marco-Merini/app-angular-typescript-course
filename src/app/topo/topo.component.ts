@@ -1,11 +1,13 @@
-import { Component } from "@angular/core";
+import { Component } from '@angular/core';
+import { CommonModule } from '@angular/common';
 
 @Component({
-    selector: 'app-topo',
-    templateUrl: './topo.component.html',
-    styleUrls: ['./topo.component.css']
+  selector: 'app-topo',
+  standalone: true,
+  imports: [CommonModule],
+  templateUrl: './topo.component.html',
+  styleUrl: './topo.component.css'
 })
-
 export class TopoComponent {
-    public titulo: string = 'Aprendendo Inglês';
+  public titulo: string = 'Aprendendo Inglês';
 }
